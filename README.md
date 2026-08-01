@@ -22,35 +22,22 @@
 
 ---
 
-### 🧰 Tech Stack
+### ⚡ Skills & Arsenal
 
-**Languages & Tools**
+<p align="center"><b>Languages & Tools</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
-**Currently Learning**
+<p align="center"><b>Currently Learning</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Nmap-1B1B1B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-raza&show_icons=true&theme=tokyonight&count_private=true" alt="Shahmeer's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-raza&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-raza&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
@@ -64,7 +51,7 @@ Currently learning Linux, networking, and security fundamentals — open to inte
 ### 📫 Connect
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/shahmeer-raza-991636425/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
