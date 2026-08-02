@@ -42,6 +42,12 @@
 
 ---
 
+### 📜 Certifications
+
+-  **Introduction to Cyber Security** — Cisco NetAcad
+
+---
+
 ### 🟢 Status
 
 Currently learning Linux, networking, and security fundamentals — open to internships, collaboration, and learning opportunities.
