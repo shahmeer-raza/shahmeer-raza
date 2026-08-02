@@ -51,6 +51,7 @@ Always down to learn from others, collab on something cool, or just talk shop ab
 ### 📜 Certifications
 
 - **Introduction to Cyber Security** — Cisco NetAcad
+- **Introduction to Modern AI** — Cisco NetAcad
 
 ---
 
