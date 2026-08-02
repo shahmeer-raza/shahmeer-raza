@@ -1,3 +1,9 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2EC4B6&height=180&section=header&text=Shahmeer%20Raza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Shahmeer</h1>
 <h3 align="center">BS Cyber Security Student | Linux User | Aspiring Ethical Hacker</h3>
 
@@ -14,11 +20,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BS Cyber Security student
-- 🐧 Comfortable with **Linux** and **Git**
-- 🔍 Currently learning: Networking fundamentals, Nmap, Wireshark (via OverTheWire, NetAcad, edX)
-- 🛡️ Interested in ethical hacking and security fundamentals
-- 🤝 Open to: Learning opportunities, collaboration, open source
+Hey, I'm Shahmeer 👋 Currently doing my BS in Cyber Security and figuring things out one module at a time. I live in the terminal, Linux is home for me, and I'm slowly falling in love with networking, Nmap, and Wireshark.
+
+Right now I'm grinding through NetAcad courses, poking around TryHackMe, and picking up Python along the way. End goal? Red Teaming — but I'm taking it slow and steady instead of rushing.
+
+Always down to learn from others, collab on something cool, or just talk shop about security. Hit me up 🤝
 
 ---
 
@@ -44,7 +50,7 @@
 
 ### 📜 Certifications
 
--  **Introduction to Cyber Security** — Cisco NetAcad
+- **Introduction to Cyber Security** — Cisco NetAcad
 
 ---
 
@@ -61,3 +67,5 @@ Currently learning Linux, networking, and security fundamentals — open to inte
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2EC4B6&height=100&section=footer" width="100%"/>
