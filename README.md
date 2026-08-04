@@ -62,8 +62,10 @@ Currently learning Linux, networking, and security fundamentals — open to inte
 ---
 
 ### 📫 Connect
-
 <p align="left">
+  <a href="https://shahmeerraza.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2EC4B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/shahmeer-raza-991636425/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
