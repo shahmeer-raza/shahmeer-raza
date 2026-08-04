@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Shahmeer Raza</h1>
+<h1 align="center">Hi, I'm Shahmeer Raza</h1>
 <h3 align="center">BS Cyber Security Student | Linux User | Aspiring Ethical Hacker</h3>
 
 <p align="center">
@@ -18,16 +18,16 @@
 
 ---
 
-### 👨‍💻 About Me
-Hey, I'm Shahmeer 👋 Currently doing my BS in Cyber Security and figuring things out one module at a time. I live in the terminal, Linux is home for me, and I'm slowly falling in love with networking, Nmap, and Wireshark.
+### About Me
+Hey, I'm Shahmeer, Currently doing my BS in Cyber Security and figuring things out one module at a time. I live in the terminal, Linux is home for me, and I'm slowly falling in love with networking, Nmap, and Wireshark.
 
 Right now I'm grinding through NetAcad courses, poking around TryHackMe, and picking up Python along the way. End goal? Red Teaming — but I'm taking it slow and steady instead of rushing.
 
-Always down to learn from others, collab on something cool, or just talk shop about security. Hit me up 🤝
+Always down to learn from others, collab on something cool, or just talk shop about security. Hit me up 
 
 ---
 
-### ⚡ Skills & Arsenal
+### Skills & Arsenal
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -52,7 +52,7 @@ Always down to learn from others, collab on something cool, or just talk shop ab
 
 ---
 
-### 🏹 Practicing On
+### Practicing On
 <p align="center">
   <a href="https://tryhackme.com/" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
@@ -61,13 +61,13 @@ Always down to learn from others, collab on something cool, or just talk shop ab
 
 ---
 
-### 📜 Certifications
+### Certifications
 - **Introduction to Cyber Security** — Cisco NetAcad
 - **Introduction to Modern AI** — Cisco NetAcad
 
 ---
 
-### 🚀 Projects
+### Projects
 
 <div align="center">
 
@@ -79,12 +79,12 @@ Always down to learn from others, collab on something cool, or just talk shop ab
 
 ---
 
-### 🟢 Status
+### Status
 Currently learning Linux, networking, and security fundamentals — open to internships, collaboration, and learning opportunities.
 
 ---
 
-### 📫 Connect
+### Connect
 <p align="left">
   <a href="https://shahmeerraza.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2EC4B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
