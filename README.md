@@ -43,13 +43,6 @@ Always down to learn from others, collab on something cool, or just talk shop ab
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-<p align="center"><b>Currently Learning</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Nmap-1B1B1B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
 ---
 
 ### Practicing On
