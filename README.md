@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EC4B6&center=true&vCenter=true&width=440&lines=Learning+Networking+%26+Nmap;Exploring+Wireshark+%26+Bash;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EC4B6&center=true&vCenter=true&width=440&lines=Learning+Networking+%26+Nmap;Exploring+Wireshark+%26+Bash;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Hey, I'm Shahmeer, Currently doing my BS in Cyber Security and figuring things o
 
 Right now I'm grinding through NetAcad courses, poking around TryHackMe, and picking up Python along the way. End goal? Red Teaming — but I'm taking it slow and steady instead of rushing.
 
-Always down to learn from others, collab on something cool, or just talk shop about security. Hit me up 
+Always down to learn from others, collab on something cool, or just talk shop about security. Hit me up
 
 ---
 
@@ -40,7 +40,11 @@ Always down to learn from others, collab on something cool, or just talk shop ab
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Nmap-1B1B1B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </p>
 
 ---
@@ -55,8 +59,16 @@ Always down to learn from others, collab on something cool, or just talk shop ab
 ---
 
 ### Certifications
-- **Introduction to Cyber Security** — Cisco NetAcad
-- **Introduction to Modern AI** — Cisco NetAcad
+
+<div align="center">
+
+[![Introduction to Cyber Security](https://img.shields.io/badge/Credly-Introduction%20to%20Cyber%20Security-2EC4B6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/c094cd8d-8614-4144-8c09-9433ae8f89b5/public_url)
+
+[![Introduction to Modern AI](https://img.shields.io/badge/Credly-Introduction%20to%20Modern%20AI-2EC4B6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/689061c9-4a42-4db1-a50c-837153b56709/public_url)
+
+[![Creating Compelling Reports](https://img.shields.io/badge/Credly-Creating%20Compelling%20Reports-2EC4B6?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/eec60b96-b740-4bf0-8bd3-a4e6fe70ecad/public_url)
+
+</div>
 
 ---
 
